@@ -6,6 +6,7 @@
 ---
 
 > [Acesse a versão beta da plataforma clicando aqui](corretorpro.den42.tech)
+
 >*Contas criadas nesta versão estão sujeitas a serem deletadas a qualquer momento.*
 
 ---
